@@ -1,13 +1,13 @@
 criaCartao(
     'Nome',
-    'Geovana Colonhesi',
-    '2B - N11'
+    'Flavio',
+    '2B - N09'
 )
 
 criaCartao(
-    'Geografia',
-    'Em qual continente fica Monaco?',
-    'Fica no continente eurpeu?'
+    'musica',
+    'Qual seu estilo musical favorito?',
+    'rock'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz bom dia em Inglês?',
-    'Se diz Good MOrning'
+    'Como se diz ola em Inglês?',
+    'Se diz hello'
 )
